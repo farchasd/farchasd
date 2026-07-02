@@ -48,5 +48,6 @@ A tech-savvy fresh graduate passionate about Data Engineering and Automation. I 
 ---
 
 ## 📫 How to reach me
-- GitHub: @farchasd
-- https://www.linkedin.com/in/mochamad-farchan-asadillah-99b2551a1/
+- GitHub   : @farchasd
+- linkedin : https://www.linkedin.com/in/mochamad-farchan-56b4a7207/
+- Gmail    : farchan193@gmail.com
