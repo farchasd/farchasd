@@ -26,7 +26,7 @@ A tech-savvy fresh graduate passionate about Data Engineering and Automation. I 
 
 ### 🎓 Certifications
 * 🏆 **Code Generation and Optimization using IBM Granite** – [IBM]
-* (https://www.credly.com/badges/6f46b80a-c252-4ab7-8f58-1f0594f5e997)
+  **(https://www.credly.com/badges/6f46b80a-c252-4ab7-8f58-1f0594f5e997)
   
 ### 🎓 Education
 * Universitas Bina Sarana Informasi | Indonesia | Kota Bekasi |  2021-2026
