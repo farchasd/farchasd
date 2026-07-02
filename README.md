@@ -17,7 +17,8 @@ I'm a technology professional with a passion for **Data Engineering** and **Auto
   * Managed and optimized digital content structures for better data accuracy and user accessibility.
 
 ### 🎓 Certifications
-* 🏆 **Code Generation and Optimization using IBM Granite** – IBM
+* 🏆 **Code Generation and Optimization using IBM Granite** – [IBM]
+* (https://www.credly.com/badges/6f46b80a-c252-4ab7-8f58-1f0594f5e997)
 
 ### 🚀 Featured Projects
 * **[Regular Show Episode Scraper]: Developed a Python-based web scraper to collect TV show episode data from Wikipedia, cleaned the data using Pandas, and exported it to CSV.
