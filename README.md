@@ -11,11 +11,11 @@ A tech-savvy fresh graduate passionate about Data Engineering and Automation. I 
 
 ### 💼 Experience
 * **IT Support Intern | PT Inofastama Cakrawala Teknologi** (2.5 Months) intern-2019
-  *Technical Support & Maintenance: Managed the installation, configuration, and troubleshooting of Windows operating systems,       ensuring operational stability and optimal performance for devices within the MPR/DPR environment.
+  * Technical Support & Maintenance: Managed the installation, configuration, and troubleshooting of Windows operating systems,       ensuring operational stability and optimal performance for devices within the MPR/DPR environment.
 
-  *Server & Infrastructure Support: Assisted in the maintenance and monitoring of server environments to ensure high availability    and stability, including performing routine server checks and basic administration tasks.
+  * Server & Infrastructure Support: Assisted in the maintenance and monitoring of server environments to ensure high                 availability    and stability, including performing routine server checks and basic administration tasks.
   
-  *IT Asset Management & Audit: Conducted periodic audits of IT assets, identifying systems requiring OS upgrades or hardware        replacements, and maintained detailed documentation to streamline asset lifecycle management.
+  * IT Asset Management & Audit: Conducted periodic audits of IT assets, identifying systems requiring OS upgrades or hardware        replacements, and maintained detailed documentation to streamline asset lifecycle management.
   
 * **CMS Specialist | PT Millenials Indonesia Berkarya** (2 Months) intern-2024
   * Digital Content Optimization: Managed and structured digital content within the Content Management System (CMS), ensuring         data accuracy, structural integrity, and seamless accessibility for end-users.
