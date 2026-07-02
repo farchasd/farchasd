@@ -4,9 +4,9 @@ A tech-savvy fresh graduate passionate about Data Engineering and Automation. I 
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** ![Python]
+* **Languages:** Python, Javascript
 * **Libraries:** Pandas, BeautifulSoup, Requests
-* **Tools:** Git, GitHub, SQL (In-progress)
+* **Tools:** Git, GitHub,Postresql SQL (In-progress)
 * **Platforms:** CMS Management, IT Support Systems
 
 ### 💼 Experience
