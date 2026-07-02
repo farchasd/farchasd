@@ -1,7 +1,6 @@
 # Hi, I'm Mochamad Farchan Asadillah 👋
 
-I'm a technology professional with a passion for **Data Engineering** and **Automation**. I thrive on turning raw, unstructured data into meaningful insights and building efficient systems to streamline workflows.
-
+A tech-savvy fresh graduate passionate about Data Engineering and Automation. I am driven to transform raw data into meaningful insights and passionate about building systems that make workflows more efficient.
 ---
 
 ### 🛠 Tech Stack
@@ -11,10 +10,19 @@ I'm a technology professional with a passion for **Data Engineering** and **Auto
 * **Platforms:** CMS Management, IT Support Systems
 
 ### 💼 Experience
-* **IT Support Intern | PT Inofastama Cakrawala Teknologi** (2.5 Months)
-  * Provided technical support and system troubleshooting in the MPR/DPR environment, ensuring operational stability.
-* **CMS Specialist | PT Millenials Indonesia Berkarya** (2 Months)
-  * Managed and optimized digital content structures for better data accuracy and user accessibility.
+* **IT Support Intern | PT Inofastama Cakrawala Teknologi** (2.5 Months) intern-2019
+  *Technical Support & Maintenance: Managed the installation, configuration, and troubleshooting of Windows operating systems,       ensuring operational stability and optimal performance for devices within the MPR/DPR environment.
+
+  *Server & Infrastructure Support: Assisted in the maintenance and monitoring of server environments to ensure high availability    and stability, including performing routine server checks and basic administration tasks.
+  
+  *IT Asset Management & Audit: Conducted periodic audits of IT assets, identifying systems requiring OS upgrades or hardware        replacements, and maintained detailed documentation to streamline asset lifecycle management.
+  
+* **CMS Specialist | PT Millenials Indonesia Berkarya** (2 Months) intern-2024
+  * Digital Content Optimization: Managed and structured digital content within the Content Management System (CMS), ensuring         data accuracy, structural integrity, and seamless accessibility for end-users.
+
+  * Data Integrity & Quality Assurance: Performed systematic data validation to maintain information consistency and prevent          input errors within the content database.
+
+  * System Usability Enhancement: Analyzed content access workflows to optimize system navigation, which significantly improved       data retrieval efficiency for internal stakeholders and end-users.
 
 ### 🎓 Certifications
 * 🏆 **Code Generation and Optimization using IBM Granite** – [IBM]
