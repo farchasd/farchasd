@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Mochamad Farchan Asadillah 👋
 
-<!--
-**farchasd/farchasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fresh graduate with a strong passion for data engineering and automation. I enjoy turning raw data into meaningful insights and building efficient data pipelines.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- **Languages:** Python
+- **Libraries:** Pandas, BeautifulSoup, Requests
+- **Tools:** Git, GitHub, SQL (Learning)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+* **Regular Show Episode Scraper:** Developed a web scraper to collect TV show episode data from Wikipedia, cleaned the data using Pandas, and exported it to CSV.
+
+## 📈 What I'm Learning
+- Deepening my knowledge in Data Engineering pipelines.
+- Exploring SQL databases and cloud integration.
+- Building more automated tools for data collection.
+
+## 📫 How to reach me
+- GitHub: @farchasd
+- https://www.linkedin.com/in/mochamad-farchan-asadillah-99b2551a1/
