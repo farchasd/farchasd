@@ -1,6 +1,7 @@
-# Hello World, I'm Mochamad Farchan Asadillah 👋
+<img src="banner.png"/>
 
-A tech-savvy fresh graduate *passionate about Web Development, Data Engineering and Automation*. I am driven to transform raw data into meaningful insights and *passionate about building systems that make workflows more efficient*.
+#### A tech-savvy fresh graduate *passionate about Web Development, Data Engineering and Automation*. I am driven to transform raw data into meaningful insights and *passionate about building systems that make workflows more efficient*.
+
 
 
 ### 🛠 Tech Stack
@@ -58,6 +59,6 @@ A tech-savvy fresh graduate *passionate about Web Development, Data Engineering 
 ---
 
 ## 📫 How to reach me
-- GitHub   : **@farchasd**
-- linkedin : [**Click This**](https://www.linkedin.com/in/mochamad-farchan-56b4a7207/)
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mochamad-farchan-56b4a7207/)
+
 - Gmail    : **farchan193@gmail.com**
