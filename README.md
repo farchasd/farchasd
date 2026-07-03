@@ -1,13 +1,24 @@
-# Hi, I'm Mochamad Farchan Asadillah 👋
+# Hello World, I'm Mochamad Farchan Asadillah 👋
 
-A tech-savvy fresh graduate passionate about Data Engineering and Automation. I am driven to transform raw data into meaningful insights and passionate about building systems that make workflows more efficient.
----
+A tech-savvy fresh graduate *passionate about Web Development, Data Engineering and Automation*. I am driven to transform raw data into meaningful insights and *passionate about building systems that make workflows more efficient*.
+
 
 ### 🛠 Tech Stack
-* **Languages:** Python, Javascript
-* **Libraries:** Pandas, BeautifulSoup, Requests
-* **Tools:** Git, GitHub,Postresql SQL (In-progress)
-* **Platforms:** CMS Management, IT Support Systems
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="  https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white&logoSize=auto" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Docs-4285F4?style=for-the-badge&logo=google-docs&logoColor=white" />
+<img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+
 
 ### 💼 Experience
 * **IT Support Intern | PT Inofastama Cakrawala Teknologi** (2.5 Months) - 2019
@@ -25,22 +36,21 @@ A tech-savvy fresh graduate passionate about Data Engineering and Automation. I 
   * System Usability Enhancement: Analyzed content access workflows to optimize system navigation, which significantly improved       data retrieval efficiency for internal stakeholders and end-users.
 
 ### 🎓 Certifications
-* 🏆 **Code Generation and Optimization using IBM Granite** – [IBM]
-  (https://www.credly.com/badges/6f46b80a-c252-4ab7-8f58-1f0594f5e997)
+* 🏆 **Code Generation and Optimization using IBM Granite** – [*Click this*](https://www.credly.com/badges/6f46b80a-c252-4ab7-8f58-1f0594f5e997)
   
 ### 🎓 Education
 * Universitas Bina Sarana Informasi | Indonesia | Kota Bekasi |  2021-2026
 * Bachelor of Information Technology (S.Kom)
 
 ### 🚀 Personal Projects
-* **[Regular Show Episode Scraper]: Developed a Python-based web scraper to collect TV show episode data from Wikipedia, cleaned the data using Pandas, and exported it to CSV.
+* **[Regular Show Episode Scraper]**: Developed a Python-based web scraper to collect TV show episode data from Wikipedia, cleaned the data using Pandas, and exported it to CSV.
 
 ---
 
 ### 📈 Currently Learning
-* Advanced Data Engineering pipelines.
-* Deepening skills in SQL databases & Cloud integration.
-* Developing more robust automated scraping tools.
+* **Advanced Data Engineering pipelines**.
+* **Deepening skills in SQL databases & Cloud integration**.
+* **Developing more robust automated scraping tools**.
 
 ### 📫 Let's Connect!
 
@@ -48,6 +58,6 @@ A tech-savvy fresh graduate passionate about Data Engineering and Automation. I 
 ---
 
 ## 📫 How to reach me
-- GitHub   : @farchasd
-- linkedin : https://www.linkedin.com/in/mochamad-farchan-56b4a7207/
-- Gmail    : farchan193@gmail.com
+- GitHub   : **@farchasd**
+- linkedin : [**Click This**](https://www.linkedin.com/in/mochamad-farchan-56b4a7207/)
+- Gmail    : **farchan193@gmail.com**
