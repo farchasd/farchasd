@@ -1,4 +1,4 @@
-<img src="banner.png"/>
+
 
 #### A tech-savvy fresh graduate *passionate about Web Development, Data Engineering and Automation*. I am driven to transform raw data into meaningful insights and *passionate about building systems that make workflows more efficient*.
 
