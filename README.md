@@ -40,19 +40,24 @@ A tech-savvy fresh graduate passionate about <b>Backend Development</b> and buil
 
 ### 🚀 Featured Project
 
-<div align="center">
+<table>
+<tr>
+<td width="100%">
 
-<a href="https://github.com/farchasd/task-manager-api">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=farchasd&repo=task-manager-api&theme=default&hide_border=true" />
-</a>
+**📋 [Task Manager API](https://github.com/farchasd/task-manager-api)**
 
-</div>
+A RESTful API for task management with full CRUD functionality — built with **Express.js**, **Prisma ORM**, and **PostgreSQL**.
 
-<p align="center">
-A RESTful API for task management with full CRUD functionality — built with <b>Express.js</b>, <b>Prisma ORM</b>, and <b>PostgreSQL</b>. Implements route parameters, JSON request/response handling, and connects to a cloud-hosted database.
-</p>
+- ⚙️ Full CRUD operations (Create, Read, Update, Delete)
+- 🔗 Route parameters & JSON request/response handling
+- ☁️ Connected to a cloud-hosted PostgreSQL database
+- 🧪 Tested with Postman
 
----
+`JavaScript` `Express.js` `Prisma` `PostgreSQL`
+
+</td>
+</tr>
+</table>
 
 ### 💼 Experience
 
